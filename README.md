@@ -41,6 +41,8 @@ This project demonstrates a basic computer vision application that detects **red
 
 The output is a visual representation of the original image with green rectangles around areas identified as wounds. These areas are labeled with the text **"Wound"**. The detection works for red-colored regions based on HSV color filtering.
 
-![Output Screenshot](output.png)
+![Original image](wound.jpg)
+
+![Original image](wound.jpg)
 
 
