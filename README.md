@@ -43,6 +43,6 @@ The output is a visual representation of the original image with green rectangle
 
 ![Original image](wound.jpg)
 
-![Original image](wound.jpg)
+![Original image](output.jpg)
 
 
